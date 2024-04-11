@@ -8,7 +8,6 @@ techstack:
     - sass:1.55.0
     - redis:7.0.4
     - beanstalkd
-    - npm
   database:
     - postgresql
   devops:
